@@ -1,6 +1,6 @@
 # kbone-react-if-dom
 
-Kbone-react 缺陷复现仓库
+kbone-react 特殊层级下，条件渲染 Dom 节点会导致卡顿崩溃，缺陷复现仓库
 
 1. 安装依赖
 ```sh
